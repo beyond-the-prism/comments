@@ -1,4 +1,4 @@
 {
-    "origins": ["https://blog.app.test", "https://sophia-dev.io"],
+    "origins": ["https://blog.app.test", "https://blog.sophia-dev.io"],
     "defaultCommentOrder": "oldest"
 }
